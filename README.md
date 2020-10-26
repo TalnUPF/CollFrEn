@@ -8,6 +8,6 @@ This is a collection of English and French collocations categorized according to
 
 # References
 
-[1] Mel’cuk, I. (1996). Lexical functions: a tool for the description of lexical relations in a lexicon. Lexical functions in lexicography and natural language processing, 31, 37-102.
-[2] Navigli, R., & Ponzetto, S. P. (2012). BabelNet: The automatic construction, evaluation and application of a wide-coverage multilingual semantic network. Artificial Intelligence, 193, 217-250.
-[3] Espinosa-Anke, L., & Schockaert, S. (2018, August). SeVeN: Augmenting Word Embeddings with Unsupervised Relation Vectors. In Proceedings of the 27th International Conference on Computational Linguistics (pp. 2653-2665).
+- [1] Mel’cuk, I. (1996). Lexical functions: a tool for the description of lexical relations in a lexicon. Lexical functions in lexicography and natural language processing, 31, 37-102.
+- [2] Navigli, R., & Ponzetto, S. P. (2012). BabelNet: The automatic construction, evaluation and application of a wide-coverage multilingual semantic network. Artificial Intelligence, 193, 217-250.
+- [3] Espinosa-Anke, L., & Schockaert, S. (2018, August). SeVeN: Augmenting Word Embeddings with Unsupervised Relation Vectors. In Proceedings of the 27th International Conference on Computational Linguistics (pp. 2653-2665).

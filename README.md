@@ -13,7 +13,7 @@ If you use this resource in your research, please use the following `bibtex` ent
 ```
 @inproceedings{collfren2020,
   title={CollFrEn: Rich Bilingual English–French Collocation Resource},
-  author={Fiusas, Beatriz and Espinosa-Anke, Luis and Codina-Filbà and Wanner, Leo},
+  author={Fisas, Beatriz and Espinosa-Anke, Luis and Codina-Filbà and Wanner, Leo},
   booktitle={ Joint Workshop on Multiword Expressions and Electronic Lexicons (MWE-LEX 2020)},
   year={2020}
 }
